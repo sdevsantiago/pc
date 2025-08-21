@@ -1,0 +1,7 @@
+Package: pc
+Version: 1.0
+Section: games
+Priority: optional
+Architecture: amd64
+Maintainer: sdevsantiago <sergio.desantiago@hotmail.es>
+Description: Display animations aimed to correct users who accidentally enter pc instead of cp.
